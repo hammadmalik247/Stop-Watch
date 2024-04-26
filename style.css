@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: yellowgreen;
+}
+h2{
+    color: #ffff;
+    margin-left: 400px;
+    font-size: 50px;
+}
+h1{
+    color: #ffff;
+    margin-left: 400px;
+    font-size: 50px;   
+}
+#btn1{
+    border-radius: 50px;
+    border-color: #ff0000;
+    background-color: #ff0000;
+    color: #ffff;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 400px;
+}
+.btn2{
+    border-radius: 50px;
+    border-color: #ffff00;
+    background-color: #ffff00;
+    color: black;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.btn3{
+    border-radius: 50px;
+    border-color: #0000ff;
+    background-color: #0000ff;
+    color: #ffff00;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+}
